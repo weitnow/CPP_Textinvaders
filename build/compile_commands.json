@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/weitnow/CLionProjects/TextInvaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextInvaders.dir/TextInvaders.cpp.o -c /home/weitnow/CLionProjects/TextInvaders/TextInvaders.cpp",
+  "file": "/home/weitnow/CLionProjects/TextInvaders/TextInvaders.cpp"
+},
+{
+  "directory": "/home/weitnow/CLionProjects/TextInvaders/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextInvaders.dir/CursesUtils.cpp.o -c /home/weitnow/CLionProjects/TextInvaders/CursesUtils.cpp",
+  "file": "/home/weitnow/CLionProjects/TextInvaders/CursesUtils.cpp"
+}
+]
